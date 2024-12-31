@@ -17,7 +17,7 @@ This repository contains a project focused on detecting fake news using machine 
 ---
 
 ## Dataset
-The dataset used is from Kaggle: [Fake News Content Detection](https://www.kaggle.com/datasets/anmolkumar/fake-news-content-detection?select=test.csv).
+The dataset used is from Kaggle: [Fake News Content Detection](https://www.kaggle.com/datasets/shubh0799/fake-news?select=news.csv).
 
 The dataset contains:
 - **Train.csv**: Training data for the models.
